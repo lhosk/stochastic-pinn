@@ -5,18 +5,18 @@
 ├── **days45/**  
 ├── **processed/**  
 ├── **years10/**
-├── *df_AS_norm.csv/* 
-├── *df_days_norm.csv/* 
-├── *df_years_norm.csv/*  
-└── *update_data.ipynb*
+├── **df_AS_norm.csv/** 
+├── **df_days_norm.csv/** 
+├── **df_years_norm.csv/**  
+└── **update_data.ipynb**
 **models**
-└── *base_model.ipynb*
-└── *CNN.ipynb*
-└── *MLP_Multi_Target.ipynb*
-└── *MLP_One_Target.ipynb*
-└── *RNN.ipynb*
-└── *PINN_RNN.ipynb*
-└── *Stochastic_PINN_RNN.ipynb* 
+└── **base_model.ipynb**
+└── **CNN.ipynb**
+└── **MLP_Multi_Target.ipynb**
+└── **MLP_One_Target.ipynb**
+└── **RNN.ipynb**
+└── **PINN_RNN.ipynb**
+└── **Stochastic_PINN_RNN.ipynb** 
 
 ### Description of the Project
 - Create something that can combined physics and computer science (deep learning)
